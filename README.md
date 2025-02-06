@@ -4,10 +4,6 @@
 - 📍 Based in Charleroi (BE).
 - 💻 Interested about back end developpement.
 
-<!-- ## About me
-
-- Currently working on API project with -->
-
 ## Stack used
 
 🌐 Frontend
